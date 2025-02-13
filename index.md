@@ -1,6 +1,6 @@
 ---
 title: Welcome to my site
-date: 13-02-2025
+date: 2025-02-13
 ---
 
 
